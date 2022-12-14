@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667288474491",
+    "project_id": "hirexx0",
+    "storage_bucket": "hirexx0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667288474491:android:a642a653a8a7f571d8a3de",
+        "android_client_info": {
+          "package_name": "com.example.hirexxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667288474491-m843ecub55t2j9c5p63qm61m4a5cr4n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdiE5ctVj3ZM-fY-SD0Cmgft5I-cEeL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667288474491-m843ecub55t2j9c5p63qm61m4a5cr4n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
